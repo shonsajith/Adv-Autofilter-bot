@@ -49,7 +49,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>⭕ Name</b> : <b>Auto Filter Bot</b>
     
-<b>⭕ Creator</b> : <b><a href="https://t.me/abhijith876">@abhijith876</a></b>
+<b>⭕ Creator</b> : <b><a href="https://t.me/shonsajith">@shonsajith</a></b>
 
 <b>⭕ Language</b> : <b>Python3</b>
 
