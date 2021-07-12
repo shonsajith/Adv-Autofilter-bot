@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/culprit-k",
-    "repository": "https://github.com/culprit-k/Adv-Autofilter_botv2",
+    "repository": "https://github.com/shonsajith/Adv-Autofilter-bot",
     "success_url": "https://telegram.dog/Movie_House_1",
     "env": {
         "APP_ID": {
@@ -28,7 +28,7 @@
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "A Pyrogram User Session String. Generated From https://replit.com/@culprit009/httpsgithubcomculprit-kPrbotv2o-AutoFilter--1?v=1",
             "value": ""
         }
     },
